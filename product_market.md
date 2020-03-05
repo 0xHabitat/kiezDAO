@@ -64,17 +64,21 @@ Alternatively, we could seek to make our tool inter-operable with already existi
 
 
 
-- **Injury/Liability** Customer can be injured when operating rented tool (e.g. lawnmover). Is there a way to prevent or at least minimize risk of such action occuring? Once it happens, how does one determine who is liable?
-
-- **Damage/Liability** Customer can damage or destroy the tool. How would owner be compensated? More generally, how to settle a dispute between tool owner and renter?
-
+- **Injury/Liability** Customer can be injured when operating rented tool (e.g. lawnmower). Is there a way to prevent or at least minimize risk of such action occurring? Once it happens, how does one determine who is liable?
 
 - **Fraud** Bane of all blockchain asset-management solutions. How do we make sure what happens on the blockchain reflects physical reality (e.g. owner insists on renting out a non-functional lawnmower as `working`).
 
-- **Privacy** Advertising that you own expensive tool can make you quite popular in DIY circles, but can also make you a target for thieves. How can tool-owners protect their privacy and assets?
+- **Damage/Liability** Customer can damage or destroy the tool. How would owner be compensated? More generally, how to settle a dispute between tool owner and renter?
 
+  Approach: [User Scenario B.1](https://github.com/deora-earth/kiezDAO/blob/master/user_scenarios.md#scenario-b1)
 
-- **Sharing Economy** On one hand it may seem we are helping those less affluent by letting them use tools they cannot afford. On the other we might be hurting them by furthering class divide as we let those who can afford the tools to profit from those who cannot. It would be good to keep this in mind, and use our platform to promote *free sharing* so that we don't turn our platform into something exploitative.
+- **Privacy** Advertising that you own expensive tool can make you quite popular in DIY circles, but can also make you a target for thieves. How can tool-owners protect their privacy and assets?  
+  
+  Approach: People outside of the community can see the tools offered. But only once accepted in the community can see ownership. 
+
+- **Sharing Economy** On one hand it may seem we are helping those less affluent by letting them use tools they cannot afford. On the other we might be hurting them by furthering class divide as we let those who can afford the tools to profit from those who cannot. It would be good to keep this in mind, and use our platform to promote *free sharing* so that we don't turn our platform into something exploitative.   
+  
+  Approach: [User Scenario A.2](https://github.com/deora-earth/kiezDAO/blob/master/user_scenarios.md#scenario-a2)
 
 
 ### What is the impact of your solution? How will it be measured?
@@ -110,7 +114,7 @@ S2. As lender, I WANT TO receive agreed upon payments for renting my tool SO THA
 
 S3. As good-natured lender, I WANT TO rent my tool free of charge, just SO THAT it is used by someone.
 
-S4. As lender, I WANT TO have neat non-repudiable records of any tansactions with borrowers SO THAT I have recourse if something goes wrong.
+S4. As lender, I WANT TO have neat non-repudiable records of any transactions with borrowers SO THAT I have recourse if something goes wrong.
 
 
 `BORROWER STORIES`
@@ -132,7 +136,7 @@ Data model for `tool` and `user`:
 
 - For `user` what is important is his `identity` and `reputation`.
 
-- For `tool` we need to record its `properties` (e.g. category, model) its `condition` (e.g. operational yet slightly rusted could be photo) and its `ownership`.
+- For `tool` we need to record its `properties` (e.g. serial number, category, model) its `condition` (e.g. operational yet slightly rusted could be photo) and its `ownership`.
 
 #### Misc
 
@@ -145,4 +149,4 @@ Data model for `tool` and `user`:
 **Note 1**
 Everyone can mint token for any tool. Introducing vetting at minting stage (e.g. someone else needs to confirm tool actually exists) might be an interesting stretch-goal for later.
 
-**Note 2** Unless we introduce collateral trust is of critical importance i.e. how do we prevent borrower from not returning the tool? With collateral problem is inverted. Not a concern if app is used only within a group of neighbors that know each other, but it limits usability.
+**Note 2** Unless we introduce collateral trust is of critical importance i.e. how do we prevent borrower from not returning the tool? With collateral problem is inverted. Not a concern if app is used only within a group of neighbors that know each other, but it limits usability.  See [user scenarios B.1 & B.2](https://github.com/deora-earth/kiezDAO/blob/master/user_scenarios.md#scenario-b1) for an approach of community fund and stake as collateral. 
