@@ -31,7 +31,7 @@ Unlikely but possible from time to time: a tool brakes or get's lost. In general
 
 ### Scenario B.1
 
-In case the deposit for the owner is not enough to repair the tool the community fund can jump in for compensation. This functions as a community insurance. A case can be opened either from the lender or the borrower against a stake to prevent spamming. If a dispute for a specific case is coming up a mediator out of the community will be chosen by simple sortition. In exchange the chosen community member will be compensated in tokens and reputation for her services. 
+In case the deposit for the owner is not enough to repair the tool the community fund can jump in for compensation (taking the face value of the tool into account). This functions as a community insurance. A case can be opened either from the lender or the borrower against a stake to prevent spamming. If a dispute for a specific case is coming up a mediator out of the community will be chosen by simple sortition. In exchange the chosen community member will be compensated in tokens and reputation for her services. 
 
 ![](img/2020-03-05-12-05-00.png)
 
