@@ -17,7 +17,7 @@ If the tool owner gives a defined permission the borrower can become a lender hi
 
 ### Scenario A.2
 
-Every borrower sends tokens to the lender and therefore subsidizes his tools in exchange for it's usage. Over time the lender will have her initial payment of the tool fully covered. 
+Every borrower sends tokens to the lender and therefore subsidizes his tools in exchange for it's usage. Over time the lender will have her initial payment of the tool fully covered and fully written off. Every member of the community can challenge the retail price (total cost) of the tool provided for the community (in case someone is pricing the retail price too high - to earn more tokens).
 
 To promote a solidary community without a profit focus, we either incentivize a lower cost of renting the tool (meaning:the tool becomes part of the community) or increasing the community tribute by a stronger taxation of the tokens that would normally go to the lender (meaning: wealth tax to prevent monopolies). The initial owner will still get a token and reputation incentive.
 
@@ -31,7 +31,7 @@ Unlikely but possible from time to time: a tool brakes or get's lost. In general
 
 ### Scenario B.1
 
-In case the deposit for the owner is not enough to repair the tool the community fund can jump in for compensation. This functions as a community insurance. If a dispute for a specific case is coming up a mediator out of the community will be chosen by simple sortition. In exchange the chosen community member will be compensated in tokens and reputation for her services. 
+In case the deposit for the owner is not enough to repair the tool the community fund can jump in for compensation. This functions as a community insurance. A case can be opened either from the lender or the borrower against a stake to prevent spamming. If a dispute for a specific case is coming up a mediator out of the community will be chosen by simple sortition. In exchange the chosen community member will be compensated in tokens and reputation for her services. 
 
 ![](img/2020-03-05-12-05-00.png)
 
