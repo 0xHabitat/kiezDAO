@@ -20,3 +20,10 @@ Thusly, we arrive at the use cases, that can be easily generalized to general po
 4. Reputation system.
 
 See other documents in this repository for more technical treatment of Use Cases. 
+
+### Further Targeted Groups
+
+We are aiming to address the smallest communities (families & friends), neighbours in close proximity or bigger areas. These circles can set their own parameters (tribute, stake, fee, governance etc.) in the Smart Contracts for their kiezDAO and tool sharing structure. 
+
+We emphasize the inter-circle sharing of tools by making them publicly visible (if allowed). Building bridges to other communities is essential for a holistic sharing platform.
+
