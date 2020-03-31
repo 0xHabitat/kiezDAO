@@ -53,6 +53,13 @@ In case the former strategy proves to be difficult or ineffective, one can pivot
 
 Regarding actual distribution, MVP of the application itself should be accessible in form of a mobile-friendly website (so that it does not to be installed via app store which adds a lot of additional friction).
 
+### Digital Identity
+
+To prevent fraud and enable a valid & trustworthy reputation system a strong digital identity is required. 
+We see two options for this challenge:
+
+1. KYC procedure with a third party as a simple feature for the first version.
+2. "Buddy System": Through a referral and offline approvement of two existing members of the community (against a stake). We as deora build a winning proof-of-concept with id.earth which enables exactly this)
 
 ### Partners
 
@@ -61,7 +68,6 @@ We could partner up with zero-waste or responsible-consumption oriented organiza
 Alternatively, we could seek to make our tool inter-operable with already existing blockchain-based application for cities, like [Commonshood](https://www.commonshood.eu/) project from university of Turin.
 
 ### What are the risks associated with your solution?
-
 
 
 - **Injury/Liability** Customer can be injured when operating rented tool (e.g. lawnmower). Is there a way to prevent or at least minimize risk of such action occurring? Once it happens, how does one determine who is liable?
