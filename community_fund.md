@@ -15,4 +15,4 @@ Many more ideas can be derived from a community owned fund and governance struct
 
 ### Governance through Quadratic Voting
 
-To allow even more equality among the community. Quadratic Voting can be implemented to balance the power of the members who have a higher stake in the community fund due to their bigger tribute.
+To allow even more equality among the community. Quadratic Voting can be implemented to balance the power of the members who have a higher stake in the community fund due to their bigger tribute. QV also allows the strong preferences of the minority to weigh in.
