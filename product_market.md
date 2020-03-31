@@ -2,7 +2,7 @@
 
 Initial function of`kiezDAO` is  that of a tool sharing marketplace for small communities:
 
-- Lend tools to your neighbours. For-profit or for-free.
+- Lend tools to your neighbours/friends/family. For-profit or for-free.
 - Borrow/rent tools from your neighbors instead of buying them.
 
 By promoting better utilization of existing tools, we reduce demand, which should at scale, result in lowered production of new tools (environmental benefit) or at least lower the prices and make tools more affordable (economic benefit).
