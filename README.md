@@ -1,6 +1,7 @@
-# kiezDAO: Reconnecting Neighbourhoods 🏘🌱
+# kiezDAO: Reconnecting Neighbourhoods 🏘
 
-As team behind [DEORA](https://deora.earth/) we think that we don't really know our neighbours as well, as past generations did. In the scope of [Blockchain for Social Impact](https://blockchainforsocialimpact.com/) we hope to build a platform that would reconnect neighbourhoods and allow communities to form. Since the goal is ambitious, we would start with small tool-sharing and tool-renting platform.
+As team behind [DEORA](https://deora.earth/) we think that we don't really know our neighbours as well, as past generations did. In the scope of [Blockchain for Social Impact](https://blockchainforsocialimpact.com/) we hope to build a platform that would reconnect neighbourhoods and allow communities to form. Since the goal is ambitious, we would start with small tool-sharing and tool-renting platform.  
+🙎‍♀️ 🤝🙎🏽‍♂️
 
 ![solarpunk lesbian summer](img/solarpunk123.jpeg "reconnecting neighbourhoods")
 
