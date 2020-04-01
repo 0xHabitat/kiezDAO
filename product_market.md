@@ -59,7 +59,7 @@ To prevent fraud and enable a valid & trustworthy reputation system a strong dig
 We see two options for this challenge:
 
 1. KYC procedure with a third party as a simple feature for the first version.
-2. "Buddy System": Through a referral and offline approvement of two existing members of the community (against a stake). We as deora build a winning proof-of-concept with id.earth which enables exactly this)
+2. "Buddy System": Through a referral and offline approvement of two existing members of the community (against a stake). We as deora build a winning proof-of-concept with [id.earth](https://github.com/diffusioncon/ID.Earth-Ocean-Protocol-FOAM) which enables exactly this)
 
 ### Partners
 
