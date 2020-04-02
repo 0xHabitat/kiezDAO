@@ -1,6 +1,6 @@
 ### Persona
 
-Intended pilot user of kiezDAO is a boat owner/dweller living in a community of interlinked boats on one of the lakes in vicinity of Berlin. They are often in need of tools used either for maintenance or for leisure activity like e.g. woodwork, DIY or other hobby alas...
+Intended pilot users of kiezDAO are boat owner/dwellers living in a community of interlinked boats in a bay in Berlin. They are often in need of tools used either for maintenance or for leisure activity like e.g. woodwork, DIY or other hobby alas...
 
 
 ### Pain Point
