@@ -1,6 +1,8 @@
 # Reputation System
 
-In a small community where everybody knows everyone reputation is known on a social level and not quantifiable. KiezDAO aims to reach not only small but also larger communities where peers might not know each other personally. A reputation system can help to show transparency and trust.
+Today's society sends signals only in one direction: It punishes bad behaviour but doesn't reward good/lawful ones. 
+
+In a small community where everybody knows everyone reputation is known on a social level and rarely quantifiable. KiezDAO aims to reach not only small but also larger communities where peers might not know each other personally. A reputation system can help to show transparency and trust.
 
 Reputation in kiezDAO can be earned and slashed based on several factors. See img. 
 
