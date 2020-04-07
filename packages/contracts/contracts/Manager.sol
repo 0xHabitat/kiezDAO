@@ -9,9 +9,14 @@
 pragma solidity >=0.4.21 <0.7.0;
 
 contract Manager {
-  address public owner;
+  address public cUsdAddress;
+  address public toolsAddress;
 
-  function setOwner() public {
-    owner = msg.sender;
-  }
+	constructor (address _cUsdAddress, address _toolsAddress) public {
+	  require(_cUsdAddress != address(0), "Manager: erc20 needed");
+	  cUsdAddress = _cUsdAddress;
+	  require(_toolsAddress != address(0), "Manager: erc721 needed");
+	  toolsAddress = _toolsAddress;
+	}
+
 }

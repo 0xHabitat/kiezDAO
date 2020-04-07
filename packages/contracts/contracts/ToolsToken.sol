@@ -22,6 +22,9 @@ contract ToolsToken is ERC721Full, MinterRole {
   // Mapping from token ID to Proprietor
   mapping (uint256 => address) private _tokenProprietor;
 
+  // Mapping from token ID to value
+  mapping (uint256 => uint256) private _tokenValue;
+
   constructor() public ERC721Full("Tool Token for KiezDAO", "KDT") MinterRole() {
   }
 
@@ -35,6 +38,20 @@ contract ToolsToken is ERC721Full, MinterRole {
     require(proprietor != address(0), "ToolsToken: proprietor query for nonexistent token");
 
     return proprietor;
+  }
+
+  /**
+   * @dev Gets the value of the specified token ID.
+   * @param tokenId uint256 ID of the token to query the value of
+   * @return uint256 value of the given token ID
+   */
+  function valueOf(uint256 tokenId) public view returns (uint256) {
+    return _tokenValue[tokenId];
+  }
+
+  function setValue(uint256 tokenId, uint256 value) public {
+    require(ownerOf(tokenId) == msg.sender, "ToolsToken: not owner");
+    _tokenValue[tokenId] = value; 
   }
 
   /**
