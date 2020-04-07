@@ -1,0 +1,24 @@
+{
+  "name": "kiezdao-contracts",
+  "version": "0.1.0",
+  "description": "contracts for borrowing things in kiezDAO",
+  "main": "index.js",
+  "repository": "https://github.com/deora-earth/kiezDAO",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "openzeppelin-solidity": "^2.5.0"
+  },
+  "devDependencies": {
+    "@celo/ganache-cli": "^6.6.1",
+    "dotenv": "^8.2.0",
+    "truffle": "^5.1.19",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "console": "truffle console --network=xdai",
+    "deploy": "truffle deploy --network=xdai"
+  }
+}
