@@ -60,3 +60,12 @@ function call(uint256 toolId, uint8 sigV, bytes32 sigR, bytes32 sigS) public {}
 ```javascript
 await manager.call(toolId, sig.v, sig.r, sig.s, {from: borrower});
 ```
+
+## Testing
+
+Run the unit-test with the following command:
+```
+yarn test
+```
+
+![unit tests](unitTests.png)
