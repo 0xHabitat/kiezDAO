@@ -7,11 +7,12 @@ In one sentence summary, KiezDAO is a mobile-friendly decentralized aplication d
 > "Let users make or save money, by *easily* and *safely* sharing tools with *local community*"
 
 If you would like to learn more about the intent behind KiezDAO, you can take a look at the following materials:
-1. [Prototype video](FIXME) 
-2. [Pitch Deck](FIXME) (slides)
-3. [Video Pitch](FIXME) 
-4. [Whitepaper](FIXME)
 
+1. [Pitch Deck](https://github.com/deora-earth/kiezDAO/blob/master/kiezDAO%20Pitch%20Deck%20for%20BSIC.pdf) (slides)
+2. [Video Pitch](https://github.com/deora-earth/kiezDAO/blob/master/KiezDAO_Deora_Video_Pitch.mp4) 
+3. [Whitepaper](https://github.com/deora-earth/kiezDAO/blob/master/KiezDAO%20Whitepaper.pdf)
+
+You can also look at other documents inside the repository or the example smart contracts serving as POC technical implementation. 
 
 ![solarpunk lesbian summer](img/solarpunk123.jpeg "reconnecting neighbourhoods")
 
@@ -19,7 +20,7 @@ kiezDAO would allow interested people to advertise they own tools they would lik
 
 ### How to use KiezDAO? 
 
-You can take a look at our [Prototype video](FIXME) to see the flow of rental. As for the bigger picture:
+You can take a look at our [video pitch](https://github.com/deora-earth/kiezDAO/blob/master/KiezDAO_Deora_Video_Pitch.mp4) to see the flow of our prototype. As for the bigger picture:
 
 As a lender:
 1. Register your profile. 
@@ -54,7 +55,7 @@ We showcased the solution in a real neighbourhood to gather feedback on how it p
 ### Blockchain For Social Impact 
 To showcase kiezDAO we have produced two prototypes. A technical one and user facing one:
 
-- Front-end prototype showcasing functionality of our application. You could see it on [Figma](x).
+- Front-end prototype showcasing functionality of our application. You could see it on [figma](https://www.figma.com/proto/LpKMJEGglqbQHbDtNmGD99/KiezDAO--Rent-User-flow?node-id=0%3A1&scaling=scale-down).
 - Set of smart contracts interacting with Celo blockchain, inside this repository. 
 
 In the table below you will find a summary of weekly deliverables that have been created during the incubator. 
