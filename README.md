@@ -62,10 +62,10 @@ In the table below you will find a summary of weekly deliverables that have been
 
 | Week          | Deliverables    |
 | ------------- |:-------------:  |
-| Week 1        | Market and Product exploration |
-| Week 2        | Pain Points, Personas |
-| Week 3&4      | Prototype, MVP Testing Document |
-| Week 5        | Draft Pitch |
+| Week 1        | [Market and Product exploration](https://github.com/deora-earth/kiezDAO/blob/master/product_market.md) |
+| Week 2        | [Pain Points, Personas](https://github.com/deora-earth/kiezDAO/blob/master/personas_and_use_cases.md) |
+| Week 3&4      | Prototype (see repository), [MVP Testing Document](https://github.com/deora-earth/kiezDAO/blob/master/testing_approach.md) |
+| Week 5        | [Draft Pitch](https://github.com/deora-earth/kiezDAO/blob/master/Draft%20kiezDAO%20Pitch%20Deck(1).pdf) |
 
 
 
