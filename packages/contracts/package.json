@@ -19,7 +19,7 @@
   "scripts": {
     "test": "truffle test",
     "compile": "truffle compile",
-    "console": "truffle console --network=xdai",
-    "deploy": "truffle deploy --network=xdai"
+    "console": "truffle console --network=alfajores",
+    "deploy": "truffle deploy --network=alfajores"
   }
 }

@@ -69,3 +69,12 @@ yarn test
 ```
 
 ![unit tests](unitTests.png)
+
+## Deployment
+
+Deploy KiezDAO manager and token to Alfajores testnet using truffle:
+```
+export NETWORK_ID=44786
+export CUSD_ADDR=0x095531c4a946623aac5b3a98e4f01701ab25a8e6
+yarn deploy
+```
