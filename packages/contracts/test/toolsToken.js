@@ -24,8 +24,6 @@ contract('ToolsToken', (accounts) => {
       assert.equal(tokenCount, tokenId);
       const owner = await token.ownerOf(tokenId);
       assert.equal(owner, accounts[1]);
-      const proprietor = await token.proprietorOf(tokenId);
-      assert.equal(proprietor, accounts[1]);
     });
   });
 });
