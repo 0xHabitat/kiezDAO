@@ -57,15 +57,14 @@ To showcase kiezDAO we have produced two prototypes. A technical one and user fa
 - Front-end prototype showcasing functionality of our application. You could see it on [Figma](x).
 - Set of smart contracts interacting with Celo blockchain, inside this repository. 
 
-In the table below you fill find a summary of weekly deliverables that have been created during the incubator. 
+In the table below you will find a summary of weekly deliverables that have been created during the incubator. 
 
 | Week          | Deliverables    |
 | ------------- |:-------------:  |
-| Week 1        |         |
-| Week 2        |         |
-| Week 3        |         |
-| Week 4        |         |
-| Week 5        |  Draft Pitch       |
+| Week 1        | Market and Product exploration |
+| Week 2        | Pain Points, Personas |
+| Week 3&4      | Prototype, MVP Testing Document |
+| Week 5        | Draft Pitch |
 
 
 
