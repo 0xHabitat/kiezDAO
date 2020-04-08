@@ -34,13 +34,13 @@ As a borrower:
 3. Find tools you are interested in, contact borrower and sign rental agreeement (actually a smart-contract). 
 4. Each day agreement is in place, rent would be deducted from your account balance and paid to the lender.
 
-Once the rental period is over, both sides can conclude the agreement, rent would stop being paid and tool would return to rightful owner. If this does not happen, and there is a dispute of any sort, applicaiton would allow users to call on community (other users of the applicaiton0 to mediate and resolve the disagreement.
+Once the rental period is over, both sides can conclude the agreement, rent would stop being paid and tool would return to rightful owner. If this does not happen, and there is a dispute of any sort, application would allow users to call on community (other users of the application) to mediate and resolve the disagreement.
 
 ### Benefits of KiezDAO? 
 Benefits of using our blockchain-backed platform over simply renting the items *manually* are as follows: 
 
 - **Record keeping**, you will have indisputable proof that person X borrowed your tool at time Y.
-- **Automated money transfers**, hand your tool over to borrower and have money from rent on your account.
+- **Automated money transfers**, hand your tool over to borrower and have money from rent transfered to your account on a daily basis.
 - **Dispute resolution** if you encounter any problems such as having your tools stolen or broken, your *community* has access to special fund that can be used to cover your loss. We call this fund *community collateral*. A set percentage of profits from rentals is set aside to grow said fund. 
 
 From user point of view, by using KiezDAO you could earn money by renting your unused tool. Alternatively, looking at it from the other side, you could save money by borrowing infrequently-used tools from your neighbours instead of buying them. 
