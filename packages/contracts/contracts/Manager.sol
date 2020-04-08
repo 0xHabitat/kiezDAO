@@ -138,8 +138,6 @@ contract Manager {
     require(offer.lender == signer, "Manager: lender sig failed");
     require(offer.issued == true, "Manager: already returned");
     offers[toolId].issued = false;
-    // return tool
-    tools.transferFrom(address(this), offer.lender, toolId);
     // pay fee
     cUSD.transfer(offer.lender, offer.value / 12);
     // pay community
