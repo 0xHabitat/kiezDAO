@@ -68,4 +68,4 @@ Run the unit-test with the following command:
 yarn test
 ```
 
-![unit tests](unitTests.png =449x300)
+![unit tests](unitTests.png)
